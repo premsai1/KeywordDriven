@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8198" started-at="2020-01-01T08:09:23Z" finished-at="2020-01-01T08:09:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8198" started-at="2020-01-01T08:09:23Z" finished-at="2020-01-01T08:09:31Z">
+      <class name="com.qa.AppAutomation.testCases.LoginTest">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.qa.AppAutomation.testCases.LoginTest@29ee9faa]" name="loginTest" duration-ms="8174" started-at="2020-01-01T13:39:23Z" finished-at="2020-01-01T13:39:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.qa.AppAutomation.testCases.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
